@@ -7,14 +7,12 @@
 - Pedro Ryan de Oliveira Fernandes - 320140996
 - Stephany - 320136202
 
-Olá! Bom dia, boa tarde ou boa noite!
+## Instruções gerais
 
 Este é um desafio criado para a nossa seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
 
 Leia atentamente todo o conteúdo desse documento antes de começar qualquer execução!
 
-
-## Instruções gerais
 Iremos utilizar o site https://opentdb.com/ para realizar nosso teste, onde faremos alguns cenários utilizando a linguagem Gherkin.
 
 À princípio, daremos um modelo para que você apenas crie os passos da automação. Depois, será necessário criar um teste baseado numa descrição de cenário.
@@ -68,4 +66,3 @@ Aqui, finalizamos o teste! Espero que tenha conseguido fazer tudo com bastante c
 Esperamos também que tenha gostado e que tenha aprendido um pouco conosco!
 
 Até breve!
-
