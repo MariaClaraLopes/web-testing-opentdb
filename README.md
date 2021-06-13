@@ -1,12 +1,11 @@
 # Teste de Automação para QA - CI&T
 
 ## :pushpin: Integrantes
-Maria Clara da Silva Lopes - 320126442
-Felipe Chagas Pierassol - 320126432
-Ana Luísa Cerqueira Rezende - 320136170
-Pedro Ryan de Oliveira Fernandes - 320140996
-Stephany - 320136202
-
+- Maria Clara da Silva Lopes - 320126442
+- Felipe Chagas Pierassol - 320126432
+- Ana Luísa Cerqueira Rezende - 320136170
+- Pedro Ryan de Oliveira Fernandes - 320140996
+- Stephany - 320136202
 
 Olá! Bom dia, boa tarde ou boa noite!
 
