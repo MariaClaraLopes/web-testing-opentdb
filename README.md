@@ -5,7 +5,7 @@
 - Felipe Chagas Pierassol - 320126432
 - Ana Luísa Cerqueira Rezende - 320136170
 - Pedro Ryan de Oliveira Fernandes - 320140996
-- Stephany - 320136202
+- Stephany Miranda Ferreira - 320136202
 
 ## Instruções gerais
 
